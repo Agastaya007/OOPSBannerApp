@@ -30,6 +30,16 @@ public class UC7 {
                 " ***** "
         });
 
+         CharacterPattern O1 = new CharacterPattern('O', new String[] {
+                " ***** ",
+                "*     *",
+                "*     *",
+                "*     *",
+                "*     *",
+                "*     *",
+                " ***** "
+        });
+
         CharacterPattern P = new CharacterPattern('P', new String[] {
                 " ***** ",
                 "*    * ",
